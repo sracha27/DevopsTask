@@ -44,7 +44,6 @@ class STUDENT(Resource):
             result = {'result':'correct','StudentInput': numpy.array_str(student_num), 'ScientificOutput': numpy.array_str(output_num)}
             return result
         else:
-            print(output_num,flush=True)
             result = {'result':'wrong','StudentInput': numpy.array_str(student_num), 'ScientificOutput': numpy.array_str(output_num)}
             return result
 
