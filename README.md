@@ -20,8 +20,13 @@
 > I have created the free-style jenkins job for deploying the application.
 
 **Five tasks that I wolud like to perform for more productive solution: **
+
 > Dockerize the application.
+
 > Create a terraform template to provison the instance on the fly.
-> Create the pipeline job for CICD
-> Deploying Jenkins on EKS
+
+> Create the pipeline job for CICD.
+
+> Deploying Jenkins on EKS.
+
 > Update the code to provide the user input at runtime. 
