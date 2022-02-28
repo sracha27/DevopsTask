@@ -25,7 +25,7 @@
 
 > Create a terraform template to provison the instance on the fly.
 
-> Create the pipeline job for CICD.
+> Create the pipeline job for creation of infrastructure, continuous integration and continuous deployment.
 
 > Deploying Jenkins on EKS.
 
